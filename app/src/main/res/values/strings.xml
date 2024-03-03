@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Applicationss</string>
+    <string name="Author">Авторизация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="OkBtn">Войти</string>
+    <string name="Lhint">Введите логин</string>
+    <string name="Phint">Введите пароль</string>
+</resources>
